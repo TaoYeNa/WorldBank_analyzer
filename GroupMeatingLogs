@@ -1,0 +1,12 @@
+#03/28 
+-first meeting, assigning parts to group members
+-Junshen Xu:getCo2, getEnergy, getForest, getGDP,
+getPM2.5,getPop,createScatterPloatChart,MainUI(full class)
+-Haochen Hu:MainUI
+-Xiao Ma:CreatepieChart
+-Taoye Na:selection,strategy,strategy_factory,all the objects which implement strategies(using factory mehod)
+createlineChart, createBarChart, Result, Data, Login_proxy ,name_exception and tests classes
+#03/29
+-Setting for bitbucket 
+#04/04
+-collect and completing project

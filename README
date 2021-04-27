@@ -1,0 +1,8 @@
+# Environment and Health Data Analyzer
+- This system is build to analysis environment and health data
+for selected country and years, the analyzer will 
+produce line, bar, scatter, and pie chart for the 
+given data.
+
+## run the system
+- To run the program, run the class "MainUI"
