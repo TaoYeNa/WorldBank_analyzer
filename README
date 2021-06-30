@@ -7,6 +7,6 @@ given data.
 ## run the system
 - To run the program, run the class "MainUI"
 When you start your system, the users are greeted with a login window or form, where they can input their username and password. If the combination of username and password is not correct or no such user exists in the system’s database, a pop-up window or a notification in the form will notify them that there is an error with the provided credentials and the application will terminate.
-https://github.com/TaoYeNa/WorldBank_analyzer/tree/main/pics
+![alt text](https://github.com/TaoYeNa/WorldBank_analyzer/tree/main/figure1.png?raw=true)
 （screen shots of the program including logging in and application）
 
